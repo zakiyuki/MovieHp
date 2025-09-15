@@ -9,7 +9,7 @@
 
 ## 必要な環境
 
-- Python 3.8以上
+- Python
 - pip（Pythonパッケージマネージャー）
 
 ## インストール
@@ -27,11 +27,6 @@ python -m venv venv
 venv\Scripts\activate
 # macOS/Linux
 source venv/bin/activate
-```
-
-3. 依存関係をインストール
-```bash
-pip install -r requirements.txt
 ```
 
 ## 使用方法
